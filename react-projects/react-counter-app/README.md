@@ -33,4 +33,3 @@ Use the buttons to:
 ## Live Demo
 
 https://react-counter-app-lyart-pi.vercel.app/
-
