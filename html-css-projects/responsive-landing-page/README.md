@@ -23,7 +23,7 @@ The layout includes multiple sections such as:
   
 ## Live Demo
 
-View Live App : https://css-responsive-project.vercel.app/
+https://frontend-projects-chpp.vercel.app/
 
 ## Author
 
