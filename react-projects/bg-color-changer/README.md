@@ -31,7 +31,7 @@ This app allows users to:
 
 ## Live Demo
 
-View Live App: https://bg-color-changer-coral.vercel.app/
+https://frontend-projects-k5oj.vercel.app/
 
 ## Author
 
