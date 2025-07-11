@@ -34,7 +34,7 @@ This project features:
 
 ## 🌐 **Live Demo**
 
-- View Live Clock: [https://digital-clock-six-lake.vercel.app/]
+- View Live Clock: https://frontend-projects-2vo7.vercel.app/
 
 ---
 
