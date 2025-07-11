@@ -36,7 +36,7 @@ This project features:
 
 ## 🌐 **Live Demo**
 
-- View Live Site: [https://blog-website-zeta-livid.vercel.app/]
+- View Live Site:  https://frontend-projects-vuh2.vercel.app/
 
 ---
 
